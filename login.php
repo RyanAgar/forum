@@ -8,7 +8,7 @@ include('./db_connect.php');
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Simple Forms/Discussion System</title>
+  <title>Porsche Owners Discussion Forum</title>
  	
 
 <?php include('./header.php'); ?>
