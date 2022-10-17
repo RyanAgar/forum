@@ -15,8 +15,8 @@
   		<div class="col-md-1 float-left" style="display: flex;">
   		
   		</div>
-      <div class="col-md-4 float-left text-white">
-        <large><b>Simple Forum/Disucssion System</b></large>
+      <div class="col-md-4 float-left text-white" style="911 Porscha">
+        <large><b>Porsche Forum</b></large>
       </div>
       <div class="col-md-4 float-left">
         <form id="manage-search">
